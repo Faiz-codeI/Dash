@@ -1,0 +1,7 @@
+﻿streamlit>=1.31.0
+pandas
+numpy
+yfinance
+plotly
+pillow
+openpyxl>=3.1.0
