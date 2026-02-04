@@ -1,4 +1,4 @@
-﻿# IDX Dashboard (Streamlit)
+# IDX Dashboard (Streamlit)
 
 ## Local Setup
 1) Create venv:
